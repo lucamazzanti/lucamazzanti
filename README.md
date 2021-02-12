@@ -1,4 +1,4 @@
-# THE TWO STATES OF EVERY PROGRAMMER
+### THE TWO STATES OF EVERY PROGRAMMER
 
 [I AM A GOD](https://www.youtube.com/watch?v=6avJHaC3C2U) |  I HAE NO IDEA WHAT I'M DOING
 :-------------------------:|:-------------------------:
